@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "truskawka_lib",
+  "truskawka_bin"
+]
